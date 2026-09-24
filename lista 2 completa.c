@@ -3,7 +3,7 @@
 #include <math.h>
 
 int main() {
-    printf("=== LISTA DE EXERCICIOS DE LINGUAGEM C (LISTA 02) ===\n\n");
+    printf("=== LISTA DE EXERCICIOS 2 ===\n\n");
 
     printf("--- Exercicio 1 ---\n");
     int idade, ano_atual, ano_nascimento;
